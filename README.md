@@ -24,8 +24,8 @@ _REAPER action for scheduled recording._
   Blank or zero duration does not limit recording time, you have to stop recording manually.
 
 > [!WARNING]
-> Do not close Scheduled Recording windows if you you need to stop recording
+> Do not close Scheduled Recording windows if you need to stop recording
   at the specific time. After closing window, the scheduled recording duration
-  will be ignoder, and you have to stop recording manually.
+  will be ignored, and you have to stop recording manually.
 
 - Click "Schedule".
